@@ -18,7 +18,7 @@ metadata:
 #  labels:
 #    key1: value1
   tags:
-    - nicacton
+    - "Nic Acton"
 spec:
   type: service
   owner: TeamA
